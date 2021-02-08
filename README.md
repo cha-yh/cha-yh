@@ -5,7 +5,7 @@
 * Like learning new tech based on JS.
 * Interested in UX, UI interaction.
 
-#### The tech stacks
+#### Tech stacks
 <p >
   <img src="https://img.shields.io/badge/TypeScript-white?style=plastic&logo=TypeScript&logoColor=#3178C6"/> 
   <img src="https://img.shields.io/badge/JavaScript-white?style=plastic&logo=JavaScript&logoColor=#F7DF1E"/>
