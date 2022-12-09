@@ -1,10 +1,3 @@
-### Hi there 👋
-#### Me
-* SW Engineer.
-* Specialized in FE.
-* Like learning new tech based on JS.
-* Interested in UX, UI interaction.
-
 #### Tech stacks
 <p >
   <img src="https://img.shields.io/badge/TypeScript-white?style=plastic&logo=TypeScript&logoColor=#3178C6"/> 
